@@ -1,0 +1,382 @@
+- bg: 004.jpg
+- bgm: 白昼之庭.mp3
+
+- role: 自由岛论坛
+  text: 港湾区流传着有关试箭狂魔的传说。黑暗中有着会说人声的怪物魔影，它会询问路过的人莫名其妙的话然后动不动就用箭射人，真是太可怕了。<Clear>
+
+- text: 我好不容易逃过一劫！据我那不争气躲在一旁看我被射穿膝盖的友人描述，它问的是“汝为最强者乎”。<Clear>
+
+- text: 总感觉给了肯定回答就会被抓着进行比试，不知道有没有其他也遇上的人呢？
+
+- role: 指挥使
+  text: 自由岛论坛上出现了有关射穿膝盖的都市传说……总不会是濑由衣干的吧？<Clear>
+
+- text: 总觉得很在意……去找濑由衣问问看吧，她好像在港湾区和海湾侧城附近出没。
+
+
+- bg: 001.jpg
+- bgm: 珍贵的礼物.mp3
+- audio: seyui01_vocals.mp3
+
+- role: 旁白
+  text: 咻——！<Clear>
+- text: 一支箭插在大脚趾前方3厘米处。
+
+- role: 指挥使
+  text: ……！！！
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  role: 濑由衣
+  text: 什么嘛，是你呀。
+  audioStart: 00:04.135
+  audioEnd: 00:00:05.783
+
+- role: 指挥使
+  text: 什么叫“是你呀”，我差一点就要被你射穿了耶。
+
+- role: 濑由衣
+  text: 在这种钢铁丛林中，到处都隐藏着陷阱，稍不留神就会丢掉性命。<Clear>
+  audioStart: 00:00:10.975
+  audioEnd: 00:00:17.345
+
+- roles: [ { name: 濑由衣, act: 叉腰_普通 } ]
+  text: 刚才那一箭只是个警告而已。
+  audioStart: 00:00:18.424
+  audioEnd: 00:00:20.364
+
+- text: 作为指挥使，连这点攻击都会吓到，你的警惕性未免也太低了一点吧。<Clear>
+  audioStart: 00:00:20.490
+  audioEnd: 00:00:25.997
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+- text: 那么，你来这里干什么？<Clear>
+  audioStart: 00:00:26.934
+  audioEnd: 00:00:29.079
+
+- roles: [ { name: 濑由衣, act: 叉腰_开心 } ]
+  text: 是想找我打架吗？
+  audioStart: 00:00:29.873
+  audioEnd: 00:00:32.727
+
+- role: 旁白
+  text: 向濑由衣说出了论坛上的谣言的事情。
+
+
+- roles: [ { name: 濑由衣, act: 思考_普通 } ]
+  role: 濑由衣
+  text: 难怪最近商店里的营业员和市场老板看到我的脸色都不太好……
+  audioStart: 00:00:36.663
+  audioEnd: 00:00:44.180
+
+- text: 我还以为他们只是不想买我的猎物而已。<Clear>
+  audioStart: 00:00:44.180
+  audioEnd: 00:00:48.313
+
+- roles: [ { name: 濑由衣, act: 高兴_开心 } ]
+  role: 濑由衣
+  text: 不过……试箭魔啊。
+  audioStart: 00:00:48.775
+  audioEnd: 00:00:51.578
+
+- text: 那家伙在这附近是吗？
+  audioStart: 00:00:51.578
+  audioEnd: 00:00:54.192
+
+- role: 指挥使
+  text: 濑由衣你该不会是想……
+
+- role: 濑由衣
+  text: 有一个精通隐匿和射箭的高手在这附近哦？\n
+  audioStart: 00:01:03.573
+  audioEnd: 00:01:07.300
+
+- text: 怎么能让我不兴奋起来呢！！
+  audioStart: 00:01:07.300
+  audioEnd: 00:01:10.155
+
+- role: 指挥使
+  text: 果然……
+
+- role: 濑由衣
+  text: 喂喂！快告诉我更多关于那个家伙的传闻吧！
+  audioStart: 00:01:13.646
+  audioEnd: 00:01:15.996
+
+- text: 我已经迫不及待要抓住他比试一场了！
+  audioStart: 00:01:15.996
+  audioEnd: 00:01:18.257
+
+- role: 指挥使
+  text: 我、我看看啊……
+
+- role: 旁白
+  text: 打开了手中的战术终端。注意到濑由衣一脸兴奋地盯着终端屏幕。
+
+- role: 指挥使
+  text: 那个……濑由衣不用自己的终端吗？
+
+- roles: [ { name: 濑由衣, act: 思考_普通 } ]  
+  role: 濑由衣
+  text: 我的终端老是坏……
+  audioStart: 00:01:28.707
+  audioEnd: 00:01:31.491
+
+- text: 唔，应该说无论什么电子设备到了我手上就都会很快坏掉….<Clear>
+  audioStart: 00:01:31.491
+  audioEnd: 00:01:38.212
+
+- text: 晏华先生说是因为我和现代机械相性不和的缘故。
+  audioStart: 00:01:38.614
+  audioEnd: 00:01:43.531
+
+- role: 旁白 
+  text: 濑由衣从袖子中掏出宛如板砖一样的战术终端。
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]  
+  role: 濑由衣
+  text: 第十八次找到晏华先生的时候，他就给了我这个。
+  audioStart: 00:01:47.957
+  audioEnd: 00:01:52.345
+
+- text: 为了保证机体的稳定性，就只保留了最基本的功能而已。这个确实就很不容易坏了。
+  audioStart: 00:01:52.644
+  audioEnd: 00:02:00.015
+
+- role: 指挥使
+- text: （看到这板砖怎么有一种微妙的既视感……）\n嗯总之，就是这个帖子……诶，有最新的留言跟帖呢。
+
+- role: 自由岛论坛留言
+  text: 刚刚在海湾侧城和港湾区的小吃街碰到那家伙了……\n可恶，被射穿了小腿，有没有人来救救我啊！
+
+- role: 濑由衣
+  text: ……港湾区的小吃街？我知道在哪里。
+  audioStart: 00:02:08.526
+  audioEnd: 00:02:13.388
+
+- role: 指挥使
+  text: 那就拜托你带我去了。
+
+- role: 濑由衣
+  text: 那就赶紧跟上来吧。
+  audioStart: 00:02:17.138
+  audioEnd: 00:02:19.134
+
+- bg: 002.jpg
+
+- role: 旁白 
+  text: 空气中弥漫着烤肉的浓厚香味。
+
+- role: 指挥使
+  text: 这附近是……小吃街？
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]  
+  role: 濑由衣
+  text: ……（嗅嗅）
+  audioStart: 00:02:28.410
+  audioEnd: 00:02:29.496
+  
+- text: 这个味道是……
+  audioStart: 00:02:29.496
+  audioEnd: 00:02:32.061
+
+- role: 指挥使
+  text: 发现什么了吗？
+
+- role: 濑由衣
+  text: 啊……
+  audioStart: 00:02:35.559
+  audioEnd: 00:02:36.517
+
+- text: 嗯，应该就是在这里附近。
+  audioStart: 00:02:36.517
+  audioEnd: 00:02:39.318
+  
+- text: 有非常新鲜的血的味道，一定有什么人在这里附近被箭射伤了。
+  audioStart: 00:02:39.318
+  audioEnd: 00:02:45.940
+
+- role: 路人甲
+  text: 救命啊……
+  audioStart: 00:02:46.839
+  audioEnd: 00:02:48.195
+  
+- text: 有没有人听得到啊……
+  audioStart: 00:02:48.195
+  audioEnd: 00:02:50.521
+
+- role: 濑由衣
+  text: 嗯，找到了呢。
+  audioStart: 00:02:53.170
+  audioEnd: 00:02:55.044
+
+- text: 因为外面是吵闹的街道的关系，这里的呼救声就没有传出去。
+  audioStart: 00:02:56.081
+  audioEnd: 00:03:00.552
+
+- role: 路人甲
+  text: 啊啊……
+  audioStart: 00:03:01.439
+  audioEnd: 00:03:02.530
+
+- text: 太好了……
+  audioStart: 00:03:02.530
+  audioEnd: 00:03:04.152
+
+- text: 总算有人发现我了……
+  audioStart: 00:03:04.152
+  audioEnd: 00:03:06.802
+
+- roles: [ { name: 濑由衣, act: 动作01 } ]  
+  role: 濑由衣
+  text: 不用害怕，我马上治疗你。
+  audioStart: 00:03:07.114
+  audioEnd: 00:03:12.278
+
+- role: 旁白
+  text: 濑由衣从怀里掏出一个黑色的小瓶子，从瓶子里倒出一束草药。动作熟练地揉烂，涂在了那个人腿上的伤口上。
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]  
+  role: 濑由衣
+  text: 这个草药有很强的止血功效，也能让伤口麻痹。
+  audioStart: 00:03:16.599
+  audioEnd: 00:03:21.815
+
+- text: 现在告诉我吧，是谁、是什么射伤了你？
+  audioStart: 00:03:21.815
+  audioEnd: 00:03:25.557
+
+- role: 路人甲
+  text: 是、是个男人！用着巨大弓箭的男人！<Clear>
+  audioStart: 00:03:26.137
+  audioEnd: 00:03:31.569
+
+- text: 他的箭太快了，我根本逃不掉。\n
+  audioStart: 00:03:31.738
+  audioEnd: 00:03:36.186
+
+- text: 还在不停地问着“汝乃最强之人否”。<Clear>
+  audioStart: 00:03:36.186
+  audioEnd: 00:03:42.166
+
+- text: 拜托！我就是吐槽了一句说人话就给盯上了。\n
+  audioStart: 00:03:42.641
+  audioEnd: 00:03:48.389
+
+- text: 我要是最强之人怎么会逃走啊。<Clear>
+  audioStart: 00:03:48.389
+  audioEnd: 00:03:53.817
+
+- roles: [ { name: 濑由衣, act: 高兴_开心 } ]  
+  role: 濑由衣
+  text: ……！
+  audioStart: 00:03:54.510
+  audioEnd: 00:03:56.576
+  
+- text: 他问你，最强之人……？
+  audioStart: 00:03:56.576
+  audioEnd: 00:04:01.236
+
+- role: 路人甲
+  text: 那个啊，你们看起来很强的样子。\n
+  audioStart: 00:04:01.820
+  audioEnd: 00:04:05.055
+
+- text: 不如去找找那家伙看看吧？\n
+  audioStart: 00:04:05.055
+  audioEnd: 00:04:07.260
+
+- text: 去之前能不能帮我叫个车送我去医院啊。
+  audioStart: 00:04:07.260
+  audioEnd: 00:04:12.162
+
+- role: 指挥使
+  text: 没有问题。
+
+- roles: [ { name: 濑由衣, act: 思考_普通 } ]  
+
+- role: 濑由衣
+  text: 最强之人……
+  audioStart: 00:04:15.526
+  audioEnd: 00:04:17.875
+
+- text: “汝乃最强之人乎”……\n
+  audioStart: 00:04:17.875
+  audioEnd: 00:04:21.913
+
+- text: 自从来到这个城市，很少听到这样的遣词造句了呢。<Clear>
+  audioStart: 00:04:22.542
+  audioEnd: 00:04:28.028
+
+- text: 真是迫不及待想要抓到他打一架了！\n<PlayerName>，我们赶紧去找找看吧！
+  audioStart: 00:04:28.566
+  audioEnd: 00:04:33.756
+
+- role: 旁白 
+  text: （咕噜——）
+
+- roles: [ { name: 濑由衣, act: 正常_害羞 } ]  
+  role: 濑由衣
+  text: …………啊。不、不要管我！
+  audioStart: 00:04:37.597
+  audioEnd: 00:04:41.461
+
+- text: 只不过是……
+  audioStart: 00:04:41.461
+  audioEnd: 00:04:43.757
+
+- role: 旁白 
+  text: （咕噜噜——）
+
+- role: 濑由衣
+  text: 不，这真的只是……
+  audioStart: 00:04:47.470
+  audioEnd: 00:04:52.008
+
+- role: 旁白
+- text: 濑由衣之前提到过平时交易的店铺都不收她打到的猎物了……难不成现在正处于经济赤字？
+
+- role: 指挥使
+  text: 老板，给我两个烤肉。
+
+- role: 濑由衣
+  text: 唔——！
+  audioStart: 00:04:59.767
+  audioEnd: 00:05:01.472
+
+- role: 指挥使
+  text: 来，先吃吧。
+
+- role: 濑由衣
+  text: 咕嗯……
+  audioStart: 00:05:04.874
+  audioEnd: 00:05:06.192
+
+- text: 你的恩情，我一定会回报的！
+  audioStart: 00:05:06.223
+  audioEnd: 00:05:10.481
+
+- role: 指挥使
+  text: 不，只是烤肉而已……\n不用上升到恩情的地步……
+
+- roles: [ { name: 濑由衣, act: 叉腰_普通 } ]  
+  role: 濑由衣
+  text: ……在你看来说不定只是很小的一件事情，\n但在别人眼中或许是一件非常重要的事情。<Clear>
+  audioStart: 00:05:14.883
+  audioEnd: 00:05:21.406
+
+- text: 我已经想到解决的办法了。在这钢铁丛林中，我也是有生存下来的法子的！<Clear>
+  audioStart: 00:05:22.437
+  audioEnd: 00:05:29.021
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]  
+  text: 那么，先再见了，<PlayerName>，我最近会在中央城区附近找那家伙的线索。
+  audioStart: 00:05:29.317
+  audioEnd: 00:05:32.779
+
+- text: 如果有了那个男人的消息，一定要通知我！
+  audioStart: 00:05:32.719
+  audioEnd: 00:05:37.197
+
+- roles: [ ]  
+- role: 旁白 
+  text: 濑由衣迅速消失在了道路的尽头。

@@ -1,0 +1,27 @@
+name: ""
+cover: ""
+type: type1
+list:
+  - name: 角色支线
+    cover: /res/img/001.png
+    type: type1
+    list: 
+    - name: 角色支线 - 濑由衣
+      cover: /res/img/002.png
+      type: type2
+      list: 
+      - name: 关于射箭魔的传闻
+        cover: /res/img/003.png
+        script: seyui01.yaml
+
+      - name: 公园与树屋与烧烤
+        cover: /res/img/003.png
+        script: seyui02.yaml
+
+      - name: 追踪！
+        cover: /res/img/003.png
+        script: seyui03.yaml
+
+      - name: 终于见到了！师傅！
+        cover: /res/img/003.png
+        script: seyui04.yaml
