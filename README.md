@@ -1,6 +1,6 @@
 
 ## 如何运行程序
-1. 从 [Releases](https://github.com/SyrieYume/F7dDemo/releases/latest) 下载 `Eternal_City_Demo.exe`
+1. 从 [Releases](https://github.com/SyrieYume/F7dDemo/releases/tag/v0.1.0) 下载 v0.1.0版本的 `Eternal_City_Demo.exe`
 
 2. 运行 `Eternal_City_Demo.exe`
 
