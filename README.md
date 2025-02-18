@@ -1,19 +1,19 @@
 
 ## 如何运行程序
-1. 从 [Releases](https://github.com/SyrieYume/Eternal_City_Demo/releases/latest) 下载 `Eternal_City_Demo.exe`
+1. 从 [Releases](https://github.com/SyrieYume/F7dDemo/releases/latest) 下载 `Eternal_City_Demo.exe`
 
 2. 运行 `Eternal_City_Demo.exe`
 
-3. 如果遇到 **Bug**，欢迎在 [Issues](https://github.com/SyrieYume/Eternal_City_Demo/issues) 中提出
+3. 如果遇到 **Bug**，欢迎在 [Issues](https://github.com/SyrieYume/F7dDemo/issues) 中提出
 
 ## 如何手动编译本项目
 1. 安装C语言编译器 **MinGW** (gcc version 14.2.0)
 
 2. 新建一个空文件目录 (文件路径中最好不要带 中文 / 空格 )
 
-3. 从 [Releases](https://github.com/SyrieYume/Eternal_City_Demo/releases/latest) 下载项目的源代码部分 `sources.zip`，解压到上述文件目录下
+3. 从 [Releases](https://github.com/SyrieYume/F7dDemo/releases/latest) 下载项目的源代码部分 `sources.zip`，解压到上述文件目录下
 
-4. 从 [Releases](https://github.com/SyrieYume/Eternal_City_Demo/releases/latest) 下载项目的资源文件部分 `res.zip`，并解压到上述文件目录下的 `res` 文件夹中
+4. 从 [Releases](https://github.com/SyrieYume/F7dDemo/releases/latest) 下载项目的资源文件部分 `res.zip`，并解压到上述文件目录下的 `res` 文件夹中
 
 5. 在 **上述文件目录下** 执行以下命令：
 
