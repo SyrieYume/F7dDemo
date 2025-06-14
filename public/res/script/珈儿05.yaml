@@ -1,0 +1,112 @@
+- bg: 007.jpg
+- bgm: 珍贵的礼物.mp3
+- audio: 珈儿05_vocals.mp3
+
+- role: 旁白
+  text: 上次见识过了珈儿的后援会成员，实在是有些一言难尽。<Clear>
+
+- text: 听说他们在剑道馆里被迫进行了无数场友好交涉。<Clear>
+
+- text: ……或者说单方面被暴打比较准确一些。<Clear>
+
+- role: 珈儿
+  text: 那么，来吧，各位。
+  audioStart: 00:00:00.852
+  audioEnd: 00:00:02.001
+  
+- text: 赌上刀神的名义，向我挑战吧！
+  audioStart: 00:00:02.334
+  audioEnd: 00:00:04.817
+
+- bg: 006.jpg
+
+- role: 旁白
+  text: ……\n…………<Clear>
+
+- text: 吱啊——
+
+- bg: cg050.webp
+
+- role: 珈儿
+  text: …………啊！
+  audioStart: 00:00:13.675
+  audioEnd: 00:00:14.638
+
+- bg: 006.jpg
+
+- role: 指挥使
+  text: 诶！我、我什么都没看到——！
+
+- role: 珈儿
+  text: 没事哦，转过来吧。
+  audioStart: 00:00:18.863
+  audioEnd: 00:00:21.124
+
+- role: 旁白
+  text: 脸颊因运动过后有着些微的潮红。珈儿脱掉了套在外面的剑道服擦着汗。
+
+- bg: cg050.webp
+
+- role: 旁白
+  text: 光从准备室的窗外洒了进来。
+
+- role: 指挥使
+  text: 原来有裹胸吗……
+
+- role: 珈儿
+  text: 喂…………不要关注无关紧要的东西啊。
+  audioStart: 00:00:33.094
+  audioEnd: 00:00:35.133
+
+- role: 指挥使
+  text: 那么……考试复习得如何了？
+
+- role: 珈儿
+  text: 运动过后大脑充满了活力，感觉可以背下一整本书呢。\n
+  audioStart: 00:00:39.321
+  audioEnd: 00:00:44.583
+
+- text: 新的试卷也出好了，考试也将顺利进行，后援会的会长承诺我会原地解散。<Clear>
+  audioStart: 00:00:45.065
+  audioEnd: 00:00:54.738
+
+- role: 珈儿
+  text: 总之，一切都会顺利吧。
+  audioStart: 00:00:55.998
+  audioEnd: 00:00:57.369
+
+- role: 指挥使
+  text: 你不会觉得可惜吗？可以让他们改一改章程规定什么的，不一定要直接解散嘛。
+
+- role: 珈儿
+  text: 我只是个普通的高中生而已。<Clear>
+  audioStart: 00:01:02.261
+  audioEnd: 00:01:04.744
+
+- text: 既不想成为什么人的“神”，也不想成为偶像。\n
+  audioStart: 00:01:05.671
+  audioEnd: 00:01:09.599
+
+- text: 我没有背负那么多人的喜爱的觉悟。<Clear>
+  audioStart: 00:01:09.895
+  audioEnd: 00:01:13.490
+
+- text: 而且，真要说的话……<Clear>
+  audioStart: 00:01:14.491
+  audioEnd: 00:01:16.677
+
+- text: 神器使，能够挥剑的神器使……
+  audioStart: 00:01:17.641
+  audioEnd: 00:01:21.199
+
+- text: 是我现在最想成为的角色。\n
+  audioStart: 00:01:21.421
+  audioEnd: 00:01:23.052
+
+- bg: 006.jpg
+
+- roles: [ { name: 珈儿, act: 拜托 } ]
+  role: 珈儿
+  text: 所以，以后还请继续关照我吧，指挥使阁下。
+  audioStart: 00:01:24.386
+  audioEnd: 00:01:28.129

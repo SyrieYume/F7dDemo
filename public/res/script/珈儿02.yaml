@@ -1,0 +1,183 @@
+- bg: 007.jpg
+- bgm: 喜悦的妖精.mp3
+- audio: 珈儿02_vocals.mp3
+
+- role: 旁白
+  text: 《震惊！剑道社主将将宣布封刀退圈！？》\n《不再挥刀的神器使！她身上究竟发生了什么？！》<Clear>
+
+- text: ……学生之间的八卦，传播起来总是特别的快。\n等回过神来，关于珈儿的传闻已经传得到处都是了。
+
+- roles: [ { name: 珈儿, act: 思考 } ]
+  role: 珈儿
+  text: 抱歉……
+  audioStart: 00:00:00.200
+  audioEnd: 00:00:01.934
+
+- text: 我没想到会造成这么大的影响……
+  audioStart: 00:00:02.268
+  audioEnd: 00:00:05.069
+
+- roles: [ { name: 珈儿, act: 思考 }, { name: 泰丝拉, act: 普通 } ]
+  role: 泰丝拉
+  text: 呀——！珈儿？
+  audioStart: 00:00:06.437
+  audioEnd: 00:00:07.938
+
+- text: 你们在这里做什么呢？
+  audioStart: 00:00:08.098
+  audioEnd: 00:00:09.665
+
+- role: 旁白
+  text: 泰丝拉走来，也看到了墙上的这些奇怪的海报。
+
+- role: 泰丝拉
+  text: ……原来如此，所以老师才说，最近常有人来偷期末试卷啊。
+  audioStart: 00:00:14.555
+  audioEnd: 00:00:23.119
+
+- roles: [ { name: 珈儿, act: 惊讶 }, { name: 泰丝拉, act: 普通 } ]
+  role: 珈儿
+  text: 啊？
+  audioStart: 00:00:24.659
+  audioEnd: 00:00:25.524
+
+- text: 偷试卷？！
+  audioStart: 00:00:25.686
+  audioEnd: 00:00:27.496
+
+- role: 泰丝拉
+  text: 在这些传言刚刚流传起来的时候，听说教师办公室就遭了贼。
+  audioStart: 00:00:28.982
+  audioEnd: 00:00:35.871
+  
+- text: 窃贼偷走了全科的期末试卷，真是超过分的！<Clear>
+  audioStart: 00:00:36.115
+  audioEnd: 00:00:41.275
+
+- text: 珈儿你不知道吗？
+  audioStart: 00:00:42.166
+  audioEnd: 00:00:43.841
+
+- text: 那些被偷走的卷子，后来被发现放在你的社团更衣间柜子里哦。
+  audioStart: 00:00:43.869
+  audioEnd: 00:00:49.272
+
+- roles: [ { name: 珈儿, act: 普通 }, { name: 泰丝拉, act: 普通 } ]
+  role: 珈儿
+  text: 自从我决定复习之后就没有再去活动室了，\n这不是我做的。
+  audioStart: 00:00:50.596
+  audioEnd: 00:00:55.324
+
+- role: 泰丝拉
+  text: 我当然知道珈儿不会做这种事啦。\n
+  audioStart: 00:00:56.702
+  audioEnd: 00:01:01.105
+
+- text: 但这已经造成了恶劣的后果。<Clear>
+  audioStart: 00:01:01.267
+  audioEnd: 00:01:04.280
+
+- text: 老师们都在加班重新出试卷中。\n
+  audioStart: 00:01:05.509
+  audioEnd: 00:01:10.588
+
+- text: 但是，小偷放言说，我们出一份，它就来偷一份。<Clear>
+  audioStart: 00:01:10.859
+  audioEnd: 00:01:18.775
+
+- text: 我还听说……
+  audioStart: 00:01:19.639
+  audioEnd: 00:01:20.585
+
+- text: 有老师遭到了人身威胁，说不给珈儿打高分，就会受重伤呢。
+  audioStart: 00:01:20.774
+  audioEnd: 00:01:28.825
+
+- roles: [ { name: 珈儿, act: 普通2 }, { name: 泰丝拉, act: 普通 } ]
+  role: 珈儿
+  text: 究竟是什么人……
+  audioStart: 00:01:30.149
+  audioEnd: 00:01:31.418
+
+- text: 居然要做到这种程度。
+  audioStart: 00:01:31.581
+  audioEnd: 00:01:32.877
+
+- role: 泰丝拉
+  text: 不知道呢……
+  audioStart: 00:01:34.228
+  audioEnd: 00:01:35.849
+
+- role: 指挥使
+  text: 珈儿还是抓紧时间复习吧，这种小事我去找找线索。<Clear>
+
+- text: 泰丝拉，你说那位受到威胁的老师在哪？能带我去吗？
+
+- role: 泰丝拉
+  text: 好呀，我带你去吧。
+  audioStart: 00:01:43.306
+  audioEnd: 00:01:45.224
+
+- roles: [ { name: 珈儿, act: 普通 }, { name: 泰丝拉, act: 普通 } ]
+  role: 珈儿
+  text: 不，也请让我一起去，我想当面向老师道歉。
+  audioStart: 00:01:46.440
+  audioEnd: 00:01:50.222
+
+- bg: 006.jpg
+- bgm: 珍贵的礼物.mp3
+
+- role: 男老师
+  text: 啊，你说那个威胁信啊。
+  audioStart: 00:01:53.356
+  audioEnd: 00:01:55.626
+
+- text: 是发到我邮箱的一封邮件。<Clear>
+  audioStart: 00:01:55.923
+  audioEnd: 00:01:58.733
+
+- text: 随信附上了病毒和黑客程序，把我的电脑洗劫一空了，现在你们想看也打不开啦。
+  audioStart: 00:01:59.597
+  audioEnd: 00:02:07.675
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 真的非常抱歉……
+  audioStart: 00:02:08.918
+  audioEnd: 00:02:11.107
+
+- role: 男老师
+  text: 这不是你的错，珈儿你不用担心，我们打分会打得比较宽松，老师们会全力把你的分数打到及格的。
+  audioStart: 00:02:12.430
+  audioEnd: 00:02:22.319
+
+- role: 珈儿
+  text: 不，请不要单独对我宽松……\n
+  audioStart: 00:02:23.399
+  audioEnd: 00:02:26.317
+
+- text: 我会想办法解决这个事件，让考试正常进行。<Clear>
+  audioStart: 00:02:26.668
+  audioEnd: 00:02:30.316
+
+- roles: [ { name: 珈儿, act: 思考 } ]
+  text: 黑客程序和病毒吗……
+  audioStart: 00:02:31.207
+  audioEnd: 00:02:33.396
+  
+- text: 我记得旧城区那边有不少擅长这方面的人，希望能够有用！
+  audioStart: 00:02:33.882
+  audioEnd: 00:02:38.691
+
+- role: 指挥使
+  text: 可是珈儿，你不是要复习吗？
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 我已经将要背的试题全部放进书包里了，从这里到旧城区的路上还可以背两篇古文。\n
+  audioStart: 00:02:43.014
+  audioEnd: 00:02:50.524
+
+- text: 让考试变成这样是我的责任，我一定要解决这个问题。
+  audioStart: 00:02:50.903
+  audioEnd: 00:02:56.036

@@ -1,0 +1,277 @@
+- bg: 003.jpg
+- bgm: 白昼之庭.mp3
+- audio: 濑由衣02_vocals.mp3
+
+- role: 旁白
+  text: 中央城区的城市公园。\n
+- text: 无论是否处于黑门之中都会表现出现代城市整洁优雅的美丽公园。<Clear>
+
+- text: 此时此刻的角落里，却建起了一个格格不入的……树屋。
+
+- role: 指挥使
+  text: 无论怎么看……真的就是……树屋……吧？\n
+- text: 是谁在这里建起这样一个充满野性的屋子……
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  role: 濑由衣
+  text: 喔，你来了啊。
+
+- role: 旁白
+  text: 濑由衣一手执弓，另一只手拎着野兔模样的野兽尸体。像是刚从某处打猎回来。
+
+- role: 指挥使
+  text: 濑由衣……这树屋是……
+
+- roles: [ { name: 濑由衣, act: 害羞2 } ]
+  role: 濑由衣
+  text: 嗯……
+  audioStart: 00:00:01.104
+  audioEnd: 00:00:01.806
+  
+- text: 大概是谣言越演越烈，\n最终被房东鼓起勇气赶出来了。
+  audioStart: 00:00:02.471
+  audioEnd: 00:00:06.920
+
+- role: 指挥使
+  text: 如果自己的房客真的是传说中的试箭魔，要把人家赶出去确实需要莫大的勇气啊。<Clear>
+- text: 不过濑由衣居然会乖乖被赶出来，倒是让人有点吃惊。
+
+- roles: [ { name: 濑由衣, act: 正常_害羞 } ]
+  role: 濑由衣
+  text: 不需要吃惊吧，\n如果我打伤房东，或许会得到短暂的住处。<Clear>
+  audioStart: 00:00:15.895
+  audioEnd: 00:00:22.353
+
+- text: 但是房东势必会向中央庭投诉，\n那么我就会被中央庭开除，嗯……或者说追杀？<Clear>
+  audioStart: 00:00:23.541
+  audioEnd: 00:00:31.260
+
+- roles: [ { name: 濑由衣, act: 叉腰_害羞 } ]
+  text: 总之，这绝不是师父想要看到的。
+  audioStart: 00:00:32.620
+  audioEnd: 00:00:36.264
+
+- role: 指挥使
+  text: 要尽快处理谣言中那个人。
+
+- roles: [ { name: 濑由衣, act: 动作01 } ]
+  role: 濑由衣
+  text: 哼哼，我已经快要捕捉到那家伙的行动模式了。<Clear>
+  audioStart: 00:00:46.527
+  audioEnd: 00:00:50.149
+
+- text: 他最近都在这附近游荡，一旦他冒头，我就对着他脑袋准确地来上一箭！！
+  audioStart: 00:00:53.446
+  audioEnd: 00:01:00.802
+
+- role: 指挥使
+  text: 咳……濑由衣骨子是非常好战的人啊。
+
+- roles: [ { name: 濑由衣, act: 高兴_开心 } ]
+  role: 濑由衣
+  text: 对了，感谢你上次的烤肉，所以这回就由我回礼吧。
+  audioStart: 00:01:05.572
+  audioEnd: 00:01:12.344
+
+- role: 旁白
+  text: 濑由衣熟练地将猎物剥皮肢解，串上烤肉签，蹲在公园的角落里烤了起来……<Clear>
+
+- text: 一边烤，还一边从随身的衣兜里掏出许多小小的瓶瓶罐罐。往上头撒起了香料。不一会儿就飘出了香味。<Clear>
+
+- text: ……话说她哪来这么多瓶瓶罐罐……又究竟是怎么把这么多瓶瓶罐罐塞进衣服里的……
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  role: 濑由衣
+  text: 这是基本的生存技巧，没什么大不了的。<Clear>
+  audioStart: 00:01:27.100
+  audioEnd: 00:01:30.448
+
+- roles: [ { name: 濑由衣, act: 叉腰_开心 } ]
+  role: 濑由衣
+  text: 以前一个人在山上的时候，还不是自己搭屋子自己打猎。<Clear>
+  audioStart: 00:01:31.554
+  audioEnd: 00:01:37.798
+
+- text: 刚开始我只会吃打猎到的生肉。<Clear>
+  audioStart: 00:01:39.101
+  audioEnd: 00:01:42.231
+
+- text: 后来师父教了我用火，再后来师父又教了我用香料让肉变得好吃。<Clear>
+  audioStart: 00:01:43.399
+  audioEnd: 00:01:48.793
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  text: 这座城市也还不错，无论在城市里还是城市外都能找到有大片树木的地方，倒是经常让我想起老家的山上呢。<Clear>
+  audioStart: 00:01:49.888
+  audioEnd: 00:01:56.439
+
+- text: 植物的种类也很丰富，\n路边就长着不少野生的香草和药草。<Clear>
+  audioStart: 00:01:57.685
+  audioEnd: 00:02:02.299
+
+- text: 你看，这就是我刚刚从公园椅子旁边摘的，磨碎了会有酸酸的味道，也可以治疗伤口。
+  audioStart: 00:02:03.524
+  audioEnd: 00:02:11.388
+
+- role: 指挥使
+  text: 濑由衣是从海对岸的国家来的吧？
+
+- role: 濑由衣
+  text: 是啊。师父让我到海对岸来，\n说是能遇到更多更强的挑战者。<Clear>
+  audioStart: 00:02:16.076
+  audioEnd: 00:02:22.393
+
+- text: 我就赶上了最后一班前往这座城市的船。<Clear>
+  audioStart: 00:02:23.815
+  audioEnd: 00:02:26.883
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  text: 那艘船在半路上就遇到了很多怪物来袭击，我就担当了船上的护卫，把所有怪物都消灭掉了。<Clear>
+  audioStart: 00:02:27.901
+  audioEnd: 00:02:34.529
+
+- text: 哎呀，真是爽快的战斗。<Clear>
+  audioStart: 00:02:35.609
+  audioEnd: 00:02:38.012
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  text: 我呀，一想到和强者战斗就会很兴奋。\n
+  audioStart: 00:02:39.315
+  audioEnd: 00:02:43.945
+
+- text: 所以我真的很期待那个试箭狂魔的出现，好好打一架呢。
+  audioStart: 00:02:44.330
+  audioEnd: 00:02:49.967
+
+- role: 指挥使
+  text: 我还以为你找那个人的主要目的是为了清除谣言呢。
+
+- role: 濑由衣
+  text: 哦……
+  audioStart: 00:02:54.964
+  audioEnd: 00:02:55.724
+  
+- text: 谣言什么的我倒是无所谓。<Clear>
+  audioStart: 00:02:56.149
+  audioEnd: 00:02:57.769
+
+- text: 之前在海对岸的时候，别人就已经在说我是“鬼”了，不让进村子，也没人跟我说话。<Clear>
+  audioStart: 00:02:58.885
+  audioEnd: 00:03:06.801
+
+- text: 所以说，现在这种谣言什么的，只是小意思小意思啦。<Clear>
+  audioStart: 00:03:08.016
+  audioEnd: 00:03:11.099
+
+- text: 反正我可以自己造屋子，自己打猎，再去中央庭找找委托打打架也能生活呀。<Clear>
+  audioStart: 00:03:12.293
+  audioEnd: 00:03:18.657
+
+- roles: [ { name: 濑由衣, act: 叉腰_普通 } ]
+  text: 再说了，也不是每个人都相信那种东西嘛。\n
+  audioStart: 00:03:19.923
+  audioEnd: 00:03:23.707
+
+- text: 你就不信呀……对吧？<Clear>
+  audioStart: 00:03:24.076
+  audioEnd: 00:03:26.656
+
+- roles: [ { name: 濑由衣, act: 高兴_开心 } ]
+  text: 喏，好了，拿去。
+  audioStart: 00:03:28.426
+  audioEnd: 00:03:30.559
+
+- role: 指挥使
+  text: 唔哦，味道真好。
+
+- role: 濑由衣
+  text: 嘿嘿。
+  audioStart: 00:03:35.159
+  audioEnd: 00:03:36.332
+
+- role: 指挥使
+  text: 所以濑由衣想要找到那个人，\n就是单纯地想跟他打上一架。
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  role: 濑由衣
+  text: 是哦。
+  audioStart: 00:03:41.439
+  audioEnd: 00:03:42.260
+
+- role: 指挥使
+  text: 打完了呢？
+
+- role: 濑由衣
+  text: 诶。打完了……就打完了吧？<Clear>
+  audioStart: 00:03:46.532
+  audioEnd: 00:03:49.428
+
+- text: 我赢了就葬送他，他赢了就葬送我。
+  audioStart: 00:03:50.555
+  audioEnd: 00:03:55.621
+
+- role: 指挥使
+  text: 停停停，不对，不是这样，打完了之后要把他抓起来交给警察局。
+
+- role: 濑由衣
+  text: 唉…………
+  audioStart: 00:04:00.656
+  audioEnd: 00:04:01.876
+
+- role: 指挥使
+  text: 毕竟这里不是山里，而是受法规覆盖的城市，他可是罪犯哦。
+
+- roles: [ { name: 濑由衣, act: 害羞2 } ]
+  role: 濑由衣
+  text: 唔……唔………………
+  audioStart: 00:04:07.207
+  audioEnd: 00:04:10.576
+  
+- text: 好啦！真麻烦！<Clear>
+  audioStart: 00:04:10.866
+  audioEnd: 00:04:13.379
+
+- roles: [ { name: 濑由衣, act: 正常_害羞 } ]
+  text: 我会注意的啦。给他……留一口气……<Clear>
+  audioStart: 00:04:14.972
+  audioEnd: 00:04:17.718
+
+- text: 啊不，半条命……这样就好了吧。
+  audioStart: 00:04:18.985
+  audioEnd: 00:04:24.160
+
+- role: 旁白
+  text: 就在这时，濑由衣仿佛感受到了什么似的身体一僵。
+
+
+- roles: [ { name: 濑由衣, act: 正常_普通 } ]
+  role: 濑由衣
+  text: …………
+  audioStart: 00:04:29.107
+  audioEnd: 00:04:30.052
+
+- role: 指挥使
+  text: 怎么了？
+
+- role: 濑由衣
+  text: 又闻到了……那个味道。\n
+  audioStart: 00:04:33.893
+  audioEnd: 00:04:35.886
+
+- text: 每次那个东西出现的时候，我都能在附近闻到这股味道。
+  audioStart: 00:04:36.162
+  audioEnd: 00:04:38.549
+
+- roles: [ { name: 濑由衣, act: 叉腰_普通 } ]
+  text: 那家伙就在附近！<Clear>
+  audioStart: 00:04:39.992
+  audioEnd: 00:04:42.147
+
+- role: 濑由衣
+  text: 回礼只好下次了，跟紧咯<PlayerName>。看我射爆那家伙的头！
+  audioStart: 00:04:43.294
+  audioEnd: 00:04:47.903
+
+- roles: [ ]
+  role: 指挥使
+  text: 喂等等，那就不是半条命的事情了啊……！

@@ -1,0 +1,174 @@
+- bg: 006.jpg
+- bgm: 珍贵的礼物.mp3
+- audio: 珈儿01_vocals.mp3
+
+- role: 学生甲
+  text: 啊，是指挥使阁下。\n
+  audioStart: 00:00:00.333
+  audioEnd: 00:00:03.023
+
+- text: 来找珈儿吗？她正在睡觉呢。
+  audioStart: 00:00:03.157
+  audioEnd: 00:00:06.692
+
+- role: 指挥使
+  text: ……？？睡觉？
+
+- role: 学生甲
+  text: 到了社团活动时间就会醒来，没有问题的，请您耐心等待一下吧。
+  audioStart: 00:00:10.427
+  audioEnd: 00:00:15.630
+
+- role: 旁白
+  text: ——五分钟后，代表社团活动的铃声响了起来。
+
+- roles: [ { name: 珈儿, act: 惊讶 } ]
+  role: 珈儿
+  text: 是时候去社团了！\n
+  audioStart: 00:00:20.610
+  audioEnd: 00:00:22.078
+
+- text: 糟、糟了，又不知不觉在课上睡着了。<Clear>
+  audioStart: 00:00:22.278
+  audioEnd: 00:00:26.369
+
+- roles: [ { name: 珈儿, act: 害羞 } ]
+  text: <PlayerName>。你都看到了？<Clear>
+  audioStart: 00:00:27.525
+  audioEnd: 00:00:29.459
+
+
+- text: ……真的非常抱歉……
+  audioStart: 00:00:30.460
+  audioEnd: 00:00:31.505
+
+- text: 黑雾事态愈发严重，老师坚持为我们传授知识，而我却依旧看到书本就想睡觉。
+  audioStart: 00:00:31.705
+  audioEnd: 00:00:42.555
+
+- role: 学生甲
+  text: 珈儿你还是小心一点吧，这次的考试要是再挂科，可能会留级呢……
+  audioStart: 00:00:44.200
+  audioEnd: 00:00:48.847
+
+- roles: [ { name: 珈儿, act: 惊讶 } ]
+  role: 珈儿
+  text: ……啊？
+  audioStart: 00:00:50.270
+  audioEnd: 00:00:51.137
+
+- role: 学生乙
+  text: 上学期的期末考试因为黑门事件而取消了。\n
+  audioStart: 00:00:52.693
+  audioEnd: 00:00:56.962
+
+- text: 所以老师们想要赶在学校的黑门结界还没有再次出现，赶紧来一次期末考试呢。
+  audioStart: 00:00:57.251
+  audioEnd: 00:01:04.166
+
+- role: 珈儿
+  text: 啊啊啊？
+  audioStart: 00:01:05.500
+  audioEnd: 00:01:06.411
+
+- role: 学生甲
+  text: 所以你果然忘记了啊。
+  audioStart: 00:01:07.923
+  audioEnd: 00:01:09.924
+
+- text: 考试就在后天，真的会影响到留级的，你一定要加油。
+  audioStart: 00:01:10.102
+  audioEnd: 00:01:14.749
+
+- role: 指挥使
+  text: 那个……珈儿？
+
+- roles: [ { name: 珈儿, act: 思考 } ]
+  role: 珈儿
+  text: （小声）唔嗯……\n早知道就让考试永远消失在黑门中了……<Clear>
+  audioStart: 00:01:18.973
+  audioEnd: 00:01:24.710
+
+- text: 抱歉，我也知道我的想法是错误的……
+  audioStart: 00:01:25.755
+  audioEnd: 00:01:30.001
+
+- text: 但是一想到接下来要为了考试研读课本就忍不住……<Clear>
+  audioStart: 00:01:30.468
+  audioEnd: 00:01:37.405
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  text: <PlayerName>，有点事情想拜托你。
+  audioStart: 00:01:38.872
+  audioEnd: 00:01:40.118
+  
+- text: 这次的考试我必须全科通过……对我来说是一场不亚于挑战神明的战争。<Clear>
+  audioStart: 00:01:40.540
+  audioEnd: 00:01:47.432
+
+- text: 如果这次不能通过……
+  audioStart: 00:01:48.455
+  audioEnd: 00:01:50.412
+
+- text: 就要在暑假准备补考……<Clear>
+  audioStart: 00:01:50.590
+  audioEnd: 00:01:53.124
+
+- text: 原本应该在道场中挥剑的日子被考试和习题册充斥……\n
+  audioStart: 00:01:54.169
+  audioEnd: 00:01:59.327
+
+- text: 并且这样的日子要持续整整两个月……<Clear>
+  audioStart: 00:01:59.750
+  audioEnd: 00:02:01.351
+
+- roles: [ { name: 珈儿, act: 普通2 } ]
+  text: 感觉浑身上下鸡皮疙瘩都要起来了，我绝对不能让这种事情发生！<Clear>
+  audioStart: 00:02:02.574
+  audioEnd: 00:02:06.220
+
+- roles: [ { name: 珈儿, act: 害羞 } ]
+  text: ……您为什么露出这样不信任的眼神？
+  audioStart: 00:02:07.176
+  audioEnd: 00:02:10.533
+
+- role: 指挥使
+  text: 我不担心你的决心，但是如果要在2天内复习完一个学期的内容，这几乎不可能。
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 我……之前基础确实不太好，但如果全力补救也无法及格，我会接受暑期的补习要求，但在那之前，我绝不会放弃。<Clear>
+  audioStart: 00:02:15.469
+  audioEnd: 00:02:28.520
+
+- text: 我希望自己能以万全的姿态应对这次考试，能不能请你减少这段时间我的工作呢？
+  audioStart: 00:02:29.276
+  audioEnd: 00:02:36.213
+
+- role: 指挥使
+  text: 当然没问题了，我会尽量安排其他人去的。
+
+- role: 珈儿
+  text: 一直以来我对于学习的态度都比较随便，但是这一次，我一定要努力将它攻克下来！<Clear>
+  audioStart: 00:02:40.993
+  audioEnd: 00:02:46.063
+
+- text: 而且留级的话父亲大人一定会很失望……
+  audioStart: 00:02:47.241
+  audioEnd: 00:02:52.066
+
+- roles: [ { name: 珈儿, act: 普通2 } ]
+  text: 我不希望那样。
+  audioStart: 00:02:52.399
+  audioEnd: 00:02:54.089
+
+- text: 我不会因为不擅长某件事情而逃避它了！
+  audioStart: 00:02:54.600
+  audioEnd: 00:02:57.935
+
+- role: 旁白
+- text: 珈儿的眼神特别坚定，看来之前的事情对她确实产生了影响……<Clear>
+
+- text: 不过……这样肯定还不够。<Clear>
+
+- text: 有什么办法能帮上珈儿呢……<Clear>

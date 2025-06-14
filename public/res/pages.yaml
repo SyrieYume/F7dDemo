@@ -1,0 +1,52 @@
+name: ""
+cover: ""
+type: type1
+list:
+  - name: 角色支线
+    cover: /res/img/001.png
+    type: type1
+    list: 
+    - name: 角色支线 - 濑由衣
+      cover: /res/img/002.png
+      type: type2
+      list: 
+      - name: 关于射箭魔的传闻
+        cover: /res/img/003.png
+        script: 濑由衣01.yaml
+
+      - name: 公园与树屋与烧烤
+        cover: /res/img/003.png
+        script: 濑由衣02.yaml
+
+      - name: 追踪！
+        cover: /res/img/003.png
+        script: 濑由衣03.yaml
+
+      - name: 终于见到了！师傅！
+        cover: /res/img/003.png
+        script: 濑由衣04.yaml
+
+    - name: 角色支线 - 珈儿
+      cover: /res/img/004.png
+      type: type2
+      list:
+      - name: 珈儿的大危机
+        cover: /res/img/005.png
+        script: 珈儿01.yaml
+
+      - name: 试卷盗窃事件
+        cover: /res/img/005.png
+        script: 珈儿02.yaml
+
+      - name: 来自艾露比的情报
+        cover: /res/img/005.png
+        script: 珈儿03.yaml
+
+      - name: 情况恶化中
+        cover: /res/img/005.png
+        script: 珈儿04.yaml
+      
+      - name: 重新拾起剑
+        cover: /res/img/005.png
+        script: 珈儿05.yaml
+

@@ -1,0 +1,182 @@
+- bg: 008.jpg
+- bgm: 珍贵的礼物.mp3
+- audio: 珈儿03_vocals.mp3
+
+- roles: [ { name: 珈儿, act: 普通2 } ]
+  role: 珈儿
+  text: 约定的地点就是这里了……
+  audioStart: 00:00:00.329
+  audioEnd: 00:00:02.594
+
+- role: 指挥使
+  text: 那我们稍微等一下吧。
+
+- role: 旁白
+  text: 珈儿在图书馆的角落中坐下，翻开了她的化学书。<Clear>
+
+- text: 天啊，真是不浪费一分一秒抓紧学习。
+
+- roles: [ { name: 珈儿, act: 思考 } ]
+  role: 珈儿
+  text: ……阿伏伽德罗常数……\n
+  audioStart: 00:00:13.218
+  audioEnd: 00:00:15.153
+
+- text: 1摩尔铁原子和1摩尔水分子从分子数量来说是相同的，然而它们的质量分别是……
+  audioStart: 00:00:15.318
+  audioEnd: 00:00:20.342
+
+- text: 是……
+  audioStart: 00:00:20.671
+  audioEnd: 00:00:22.771
+
+- text: 呼……呼噜……
+  audioStart: 00:00:22.853
+  audioEnd: 00:00:27.054
+
+- role: 指挥使
+  text: 喂……才看了三页就睡着了啊！
+
+- roles: [ { name: 珈儿, act: 思考 }, { name: 艾露比, act: 普通2 } ]
+  role: 艾露比
+  text: 哟，你们是来找我的嘛？<Clear>
+  audioStart: 00:00:32.077
+  audioEnd: 00:00:34.672
+
+- text: 嘻嘻，虽然黑客技术晏华也懂不少，但真正遇到问题果然还是要来找我吧！<Clear>
+  audioStart: 00:00:35.619
+  audioEnd: 00:00:44.019
+
+- text: 我已经查到你们说的那封邮件的来源了，就在你们学校内部，是从学校的电脑室发出来的哦！<Clear>
+  audioStart: 00:00:44.966
+  audioEnd: 00:00:51.308
+
+- text: 我还查到了不少有趣的东西。珈儿，你是不是从来不觉得自己是校园偶像啊？
+  audioStart: 00:00:52.049
+  audioEnd: 00:00:59.008
+
+- roles: [ { name: 珈儿, act: 普通 }, { name: 艾露比, act: 普通2 } ]
+  role: 珈儿
+  text: 校园……
+  audioStart: 00:01:00.243
+  audioEnd: 00:01:01.314
+  
+- text: 偶像？
+  audioStart: 00:01:01.561
+  audioEnd: 00:01:02.385
+
+- roles: [ { name: 珈儿, act: 普通 }, { name: 艾露比, act: 普通 } ]
+  role: 艾露比
+  text: 就是那种又漂亮又厉害，经常收到情书和告白。走在路上男生都会回头多看几眼，然后还会有偷偷在课本上写珈儿I LOVE YOU追随者的校园偶像啦！<Clear>
+  audioStart: 00:01:03.785
+  audioEnd: 00:01:17.291
+
+- text: 顺带一提，你真的有这样一群超狂热后援会，不是我胡诌的哦。
+  audioStart: 00:01:18.650
+  audioEnd: 00:01:24.085
+
+- roles: [ { name: 珈儿, act: 惊讶 }, { name: 艾露比, act: 普通 } ]
+  role: 珈儿
+  text: 我完全没感觉……
+  audioStart: 00:01:25.033
+  audioEnd: 00:01:27.174
+
+- role: 艾露比
+  text: 算啦，你对于剑道之外的东西根本就迟钝得要死。\n
+  audioStart: 00:01:28.862
+  audioEnd: 00:01:33.268
+
+- text: 这次的事情就是那些人干的哦。<Clear>
+  audioStart: 00:01:33.268
+  audioEnd: 00:01:36.357
+
+- text: 他们自称珈儿后援会，发誓要为你所爱的剑道扫清一切阻碍，考试当然是其中之一！<Clear>
+  audioStart: 00:01:37.468
+  audioEnd: 00:01:46.610
+
+- text: “珈儿正在为考试而头痛！？”\n
+  audioStart: 00:01:47.392
+  audioEnd: 00:01:50.481
+
+- text: “而且如果不及格的话就有两个多月都无法挥剑？！”<Clear>
+  audioStart: 00:01:50.728
+  audioEnd: 00:01:54.516
+
+- text: “这简直是对珈儿的酷刑！我们亲卫队众人决不能让这种事情发生！”
+  audioStart: 00:01:55.422
+  audioEnd: 00:02:00.899
+
+- text: 大概就是这种感觉吧。
+  audioStart: 00:02:01.105
+  audioEnd: 00:02:02.299
+
+- roles: [ { name: 珈儿, act: 害羞 }, { name: 艾露比, act: 普通 } ]
+  role: 珈儿
+  text: ……抱歉。给你们添麻烦了。
+  audioStart: 00:02:03.740
+  audioEnd: 00:02:07.529
+
+- role: 艾露比
+  text: 你道什么歉呀。\n
+  audioStart: 00:02:08.929
+  audioEnd: 00:02:11.564
+
+- text: 谁知道这些脑残粉会干出这么奇葩的事情来。
+  audioStart: 00:02:11.852
+  audioEnd: 00:02:17.164
+
+- role: 珈儿
+  text: 虽然不是直接由我发起，却确实因我而起。\n
+  audioStart: 00:02:18.400
+  audioEnd: 00:02:22.229
+
+- text: 艾露比，能帮联系上那些人吗？
+  audioStart: 00:02:22.517
+  audioEnd: 00:02:26.182
+
+- role: 艾露比
+  text: 没问题，我很快就能查明究竟是谁使用了电脑。然后就你随意处置吧。
+  audioStart: 00:02:27.623
+  audioEnd: 00:02:35.447
+
+- roles: [ { name: 珈儿, act: 害羞 } ]
+  role: 珈儿
+  text: ……抱歉，我一直没注意到学校里有这样的人。<Clear>
+  audioStart: 00:02:36.765
+  audioEnd: 00:02:40.801
+
+- text: 我以为他们只是对剑道非常感兴趣才缠着我而已，没想到竟然还会做出这样的事……<Clear>
+  audioStart: 00:02:42.077
+  audioEnd: 00:02:48.419
+
+- text: 原来那样的就是“后援会”吗？
+  audioStart: 00:02:49.489
+  audioEnd: 00:02:52.083
+
+- role: 指挥使
+  text: 这不是你的责任，你没必要为粉丝做的傻事买单。
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 不，我应当为此事付相当的责任，等找到他们，我要好好与他们说一下。
+  audioStart: 00:02:56.819
+  audioEnd: 00:03:02.007
+
+- roles: [ { name: 珈儿, act: 普通 }, { name: 艾露比, act: 普通2 } ]
+  role: 艾露比
+  text: 来，拿去～
+  audioStart: 00:03:03.490
+  audioEnd: 00:03:04.680
+
+- text: 参与了这件事的人，班级照片名字学号都在上面啦。
+  audioStart: 00:03:05.013
+  audioEnd: 00:03:09.872
+
+- role: 珈儿
+  text: 谢谢你。
+  audioStart: 00:03:11.355
+  audioEnd: 00:03:14.361
+
+- text: 我们这就回学校去找他们吧。
+  audioStart: 00:03:12.796
+  audioEnd: 00:03:14.361

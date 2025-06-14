@@ -1,0 +1,328 @@
+- bg: 007.jpg
+- bgm: 珍贵的礼物.mp3
+- audio: 珈儿04_vocals.mp3
+
+- role: 旁白
+  text: 拿着艾露比给的搞事名单回到学校，珈儿先接到了一个电话。
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 啊……
+  audioStart: 00:00:01.458
+  audioEnd: 00:00:01.945
+
+- text: 请稍等一下……<Clear>
+  audioStart: 00:00:02.161
+  audioEnd: 00:00:02.998
+
+- text: 诶。父亲大人？！<Clear>
+  audioStart: 00:00:04.538
+  audioEnd: 00:00:06.754
+
+- text: 这、这一次的期末考啊，因为黑门事件所以还没进行……
+  audioStart: 00:00:08.240
+  audioEnd: 00:00:14.697
+
+- text: 对……
+  audioStart: 00:00:15.480
+  audioEnd: 00:00:16.183
+
+- text: 是的……
+  audioStart: 00:00:16.588
+  audioEnd: 00:00:17.561
+
+- text: 诶？！<Clear>
+  audioStart: 00:00:18.344
+  audioEnd: 00:00:18.938
+
+- text: 非、非常抱歉。\n
+  audioStart: 00:00:20.208
+  audioEnd: 00:00:21.856
+
+- text: 我会努力的……
+  audioStart: 00:00:22.153
+  audioEnd: 00:00:23.261
+
+- text: 是，绝对不会睡着了……\n
+  audioStart: 00:00:23.450
+  audioEnd: 00:00:25.828
+
+- text: 诶？！我明白了……
+  audioStart: 00:00:26.179
+  audioEnd: 00:00:28.475
+
+- role: 旁白
+  text: 挂掉电话的珈儿，一下子变得非常沉重。
+
+- roles: [ { name: 珈儿, act: 普通2 } ]
+  role: 珈儿
+  text: 他们居然……
+  audioStart: 00:00:34.203
+  audioEnd: 00:00:34.851
+
+- text: 威胁了我父亲……
+  audioStart: 00:00:35.014
+  audioEnd: 00:00:36.797
+
+- text: 虽然父亲大人不会放在心上，但实在是非常失礼。
+  audioStart: 00:00:37.175
+  audioEnd: 00:00:40.849
+
+- role: 指挥使
+  text: 威胁令尊……啥？
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 有人刻意打电话给我父亲，说不要因为成绩的事情责难于我。
+  audioStart: 00:00:45.010
+  audioEnd: 00:00:50.062
+
+- role: 指挥使
+  text: 这管得也太宽了吧！
+
+- role: 珈儿
+  text: 唉………………
+  audioStart: 00:00:54.574
+  audioEnd: 00:00:55.655
+
+- text: 我们赶紧去找他们吧。
+  audioStart: 00:00:55.763
+  audioEnd: 00:00:57.032
+
+- bg: 006.jpg
+
+- role: 旁白
+  text: 三年级二班，是搞事的主要群体。<Clear>
+
+- text: 其中的一位其貌不扬的男生就是发邮件的主要操作人。
+
+- role: 男学生甲
+  text: 珈、珈儿！
+  audioStart: 00:01:07.110
+  audioEnd: 00:01:08.515
+
+- text: 你、你怎么会刻意来找我！
+  audioStart: 00:01:08.812
+  audioEnd: 00:01:10.730
+
+- roles: [ { name: 珈儿, act: 普通 } ]
+  role: 珈儿
+  text: 请问是你发了病毒邮件给物理老师吗？
+  audioStart: 00:01:11.919
+  audioEnd: 00:01:15.755
+
+- role: 男学生甲
+  text: 是我！
+  audioStart: 00:01:17.295
+  audioEnd: 00:01:17.944
+
+- text: 因为我听说你的物理比较差，就让老师给你打分高一点……
+  audioStart: 00:01:18.241
+  audioEnd: 00:01:22.996
+
+- role: 珈儿
+  text: 请不要再做这种事了。
+  audioStart: 00:01:24.455
+  audioEnd: 00:01:27.427
+
+- role: 男学生甲
+  text: 我这是为了你啊，听说你这次要是无法通过就必须参加暑期补习，那对于珈儿来说是多么痛苦的经历啊……
+  audioStart: 00:01:28.994
+  audioEnd: 00:01:38.882
+
+- role: 珈儿
+  text: ……请不要这样……
+  audioStart: 00:01:40.152
+  audioEnd: 00:01:41.854
+
+- role: 男学生甲
+  text: 我们每天活着的意义就是在放学后看你练习的英姿。\n
+  audioStart: 00:01:43.205
+  audioEnd: 00:01:48.851
+
+- text: 这几天你都没有出现，我们茶不思饭不想，简直要成为废人了。<Clear>
+  audioStart: 00:01:49.256
+  audioEnd: 00:01:57.037
+
+- role: 男学生甲
+  text: 现在，天啊，居然让我面对面遇到了你。\n
+  audioStart: 00:01:58.361
+  audioEnd: 00:02:03.765
+
+- text: 我可以和你握手吗？
+  audioStart: 00:02:04.143
+  audioEnd: 00:02:06.304
+
+- role: 旁白
+  text: 还没等珈儿答应，男学生啪叽一下抓住了珈儿的手。
+
+- role: 珈儿
+  text: ……不……
+  audioStart: 00:02:11.356
+  audioEnd: 00:02:11.951
+
+- text: 我……
+  audioStart: 00:02:12.221
+  audioEnd: 00:02:13.085
+
+- role: 旁白
+  text: 轰隆——！\n教室里的气氛突然爆炸。\n男生立刻被周围的一群人扑倒在地。
+
+- role: 男学生乙
+  text: 混蛋！
+  audioStart: 00:02:18.678
+  audioEnd: 00:02:19.867
+
+- text: 你这家伙居然握珈儿的手了！
+  audioStart: 00:02:20.272
+  audioEnd: 00:02:21.866
+
+- text: 你违规了！
+  audioStart: 00:02:22.217
+  audioEnd: 00:02:23.298
+
+- role: 女学生甲
+  text: 居然当面说珈儿物理比较差，开除粉籍！
+  audioStart: 00:02:24.784
+  audioEnd: 00:02:29.188
+
+- role: 旁白
+  text: 珈儿目瞪口呆地看着眼前乱成一团的家伙们。<Clear>
+
+- text: 她大概从没见过这样的场面，说实话……我也没有。
+
+- roles: [ { name: 珈儿, act: 生气 } ]
+  role: 珈儿
+  text: 各位请住手！快住手！\n
+  audioStart: 00:02:37.887
+  audioEnd: 00:02:39.913
+
+- text: 这太奇怪了，因为这种事情就打架太奇怪了！
+  audioStart: 00:02:40.210
+  audioEnd: 00:02:43.588
+
+- role: 男学生乙
+  text: 不，这是“规定”。\n
+  audioStart: 00:02:44.938
+  audioEnd: 00:02:47.019
+
+- text: 后援会成员必须与珈儿保持一定程度的距离。<Clear>
+  audioStart: 00:02:47.343
+  audioEnd: 00:02:51.720
+
+- text: 绝不可以擅自进入2米范围之内，更别说握手。
+  audioStart: 00:02:53.071
+  audioEnd: 00:02:58.150
+
+- text: 在将珈儿看作心中神明的后援会中，这是不可饶恕的行为。
+  audioStart: 00:02:58.609
+  audioEnd: 00:03:03.445
+
+- role: 旁白
+  text: 他一边解释着，一边给珈儿看了一叠写着“珈儿后援会守则”的资料。<Clear>
+
+- text: 中心守则：珈儿是吾等心中至高之神。\n中心守则补充条款：珈儿说的都是对的，如果错了，参看前半句。
+
+- roles: [ { name: 珈儿, act: 生气2 } ]
+  role: 珈儿
+  text: 关于期末考试的事情都是你们做的吗？
+  audioStart: 00:03:12.955
+  audioEnd: 00:03:17.521
+
+- role: 男学生乙
+  text: 是的，这都是为了让珈儿顺利参加剑道社的暑期集训！
+  audioStart: 00:03:18.872
+  audioEnd: 00:03:25.842
+
+- role: 珈儿
+  text: 谢谢，但我不需要这些！
+  audioStart: 00:03:27.517
+  audioEnd: 00:03:31.354
+
+- text: 请你们停下吧！<Clear>
+  audioStart: 00:03:31.543
+  audioEnd: 00:03:33.704
+
+- text: 承蒙厚爱，但我不是什么神，也不是偶像，只是个很普通的高中生而已。
+  audioStart: 00:03:35.136
+  audioEnd: 00:03:41.458
+
+- role: 男学生乙
+  text: 只要你开口，当然可以，老师的电脑我们立刻恢复，偷来的试卷也会送回去！<Clear>
+  audioStart: 00:03:42.917
+  audioEnd: 00:03:50.860
+
+- text: 但是珈儿，我只想告诉你，因为你的存在，让我们这些人有了前进的动力。<Clear>
+  audioStart: 00:03:52.022
+  audioEnd: 00:04:01.748
+
+- text: 因为你在剑道场上的英姿，震撼了我们每个人的心灵。<Clear>
+  audioStart: 00:04:03.342
+  audioEnd: 00:04:09.313
+
+- text: 我们会不顾一切地让你通过这场考试的，考试的时候，请一定要注意我们丢的答案纸团。
+  audioStart: 00:04:11.015
+  audioEnd: 00:04:22.416
+
+- role: 珈儿
+  text: ……我希望你们也不要做那种事情。
+  audioStart: 00:04:23.956
+  audioEnd: 00:04:27.252
+
+- text: 如果你们真的喜欢我，那就请停止一切妨碍期末考试正常进行的行为吧。<Clear>
+  audioStart: 00:04:27.711
+  audioEnd: 00:04:32.682
+
+- text: 无论最终考试什么后果，结果都由我一个人承担。<Clear>
+  audioStart: 00:04:34.141
+  audioEnd: 00:04:37.843
+
+- text: 另外，也不要再组织什么后援会了，遵守什么后援会规定了，请自然地与我做朋友。
+  audioStart: 00:04:39.058
+  audioEnd: 00:04:46.569
+
+- role: 男学生乙
+  text: …………不行。
+  audioStart: 00:04:49.217
+  audioEnd: 00:04:50.379
+
+- role: 珈儿
+  text: 诶？
+  audioStart: 00:04:51.567
+  audioEnd: 00:04:52.540
+
+- role: 男学生乙
+  text: 我们已经好几天没见你挥剑了！\n
+  audioStart: 00:04:54.026
+  audioEnd: 00:04:57.052
+
+- text: 因为考试而不再挥剑的珈儿，不是我们的神。<Clear>
+  audioStart: 00:04:57.430
+  audioEnd: 00:05:02.401
+
+- text: 除非你再次拿起你的剑！
+  audioStart: 00:05:03.212
+  audioEnd: 00:05:06.400
+
+- role: 指挥使
+  text: 你们不要再得寸进尺！擅自把珈儿当作神崇拜，又擅自为她做事，现在又对她提一些莫名其妙的要求，从不问问她自己是否喜欢，这又算什么“喜欢”？
+
+- role: 珈儿
+  text: ……没事。
+  audioStart: 00:05:12.668
+  audioEnd: 00:05:13.694
+
+- text: 那就这样吧，我看你们每天都会来剑道馆观摩学习，也有不少人试着入了门。<Clear>
+  audioStart: 00:05:14.154
+  audioEnd: 00:05:21.070
+
+- text: 如果你们能击中我，那就是你们赢，我便不再干涉你们。
+  audioStart: 00:05:22.394
+  audioEnd: 00:05:26.960
+
+- text: 但如果你们做不到，那就请解散这个后援会吧。
+  audioStart: 00:05:27.392
+  audioEnd: 00:05:31.390
+
+- role: 旁白
+  text: 珈儿说完，便离开了教室。……应该是生气了吧？
