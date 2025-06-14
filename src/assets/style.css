@@ -1,0 +1,76 @@
+/* 一些公共的样式 */
+
+/* 引入字体 */
+@font-face {
+    font-family: "BigYoungMedium";
+    src: url("/res/font/BigYoungMediumGB2.0.ttf");
+}
+@font-face {
+    font-family: "BigYoungBold";
+    src: url("/res/font/BigYoungBoldGB2.0.ttf");
+}
+
+
+* {
+    box-sizing: border-box;
+    font-family: "BigYoungMedium";
+}
+
+p,pre {
+    padding: 0;
+    margin: 0;
+}
+
+button, .button {
+    cursor: pointer;
+}
+
+/* 隐藏滚动条 */
+::-webkit-scrollbar { display: none; }
+
+
+
+html, body, #app, .view {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'BigYoungMedium';
+
+    /* 让页面中的内容无法选中 */
+    user-select: none;
+}
+
+
+
+/* 背景图元素 */
+img.background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    object-position: center center;
+    object-fit: cover;
+    z-index: -99;
+}
+
+/* 顶部菜单栏 */
+div.top-bar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: calc(var(--window-scale) * 50px);
+    z-index: 99;
+}
+
+div.top-bar img.button {
+    height: 90%;
+    padding: 0 4%;
+    margin: 0 1%;
+    background-color: #00000040;
+    clip-path: polygon(0% 100%, 20% 0%, 100% 0%, 80% 100%);
+    
+    transition: all .7s ease;
+    &:hover { background-color: #ffffff60; }
+}
