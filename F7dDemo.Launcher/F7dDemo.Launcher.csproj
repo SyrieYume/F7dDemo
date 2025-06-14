@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+  <ApplicationIcon>res/favicon.ico</ApplicationIcon>
+  <!-- 输出类型：WinExe(隐藏控制台)，Exe(默认)，Library(Dll) -->
+  <OutputType>Exe</OutputType>
+  <TargetFramework>net9.0</TargetFramework>   
+  <LangVersion>latest</LangVersion> 
+
+  <Nullable>enable</Nullable>
+  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+  <!-- 隐式命名空间引用 -->
+  <ImplicitUsings>enable</ImplicitUsings>
+
+  <!-- CS0168: 声明了变量，但未使用 -->
+  <!-- CS0219: 给一个变量赋值却不使用该变量 -->
+  <!-- CA1416: 某个方法只支持 Windows平台 -->
+  <NoWarn>CS0168,CS0219,CA1416</NoWarn>
+
+</PropertyGroup>
+
+<!-- 发布指令：dotnet publish -r win-x64 -c Release -->
+<!-- 发布模式：AOT，并裁剪体积 -->	
+<PropertyGroup Condition="'$(Configuration)' != 'Debug'">
+  <!-- 最终发布文件的路径 -->
+  <PublishDir>./publish</PublishDir>
+  <AssemblyName>永远的7日之都(Demo)</AssemblyName>
+
+  <!-- 最终发布文件的信息 -->
+  <OutputType>Exe</OutputType>
+  <ApplicationIcon>res/favicon.ico</ApplicationIcon>
+  <Authors>SyrieYume</Authors>
+  <Version>0.2.0</Version>
+
+  <!-- 编译选项 -->
+  <!-- 编译模式：AOT，并裁剪体积 -->
+	<PublishAot>true</PublishAot> 
+	<PublishSingleFile>true</PublishSingleFile>
+	<StripSymbols>true</StripSymbols>
+	<PublishTrimmed>true</PublishTrimmed>
+  <DebugSymbols>false</DebugSymbols>
+  <DebugType>none</DebugType>
+</PropertyGroup>
+
+</Project>
